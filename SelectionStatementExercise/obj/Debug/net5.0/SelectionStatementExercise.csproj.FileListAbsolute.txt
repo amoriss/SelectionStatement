@@ -1,0 +1,16 @@
+C:\Users\amori\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\net5.0\SelectionStatementExercise.csproj.AssemblyReference.cache
+C:\Users\amori\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\net5.0\SelectionStatementExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\net5.0\SelectionStatementExercise.AssemblyInfoInputs.cache
+C:\Users\amori\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\net5.0\SelectionStatementExercise.AssemblyInfo.cs
+C:\Users\amori\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\net5.0\SelectionStatementExercise.csproj.CoreCompileInputs.cache
+C:\Users\amori\repos\SelectionStatementExercise\SelectionStatementExercise\bin\Debug\net5.0\SelectionStatementExercise.exe
+C:\Users\amori\repos\SelectionStatementExercise\SelectionStatementExercise\bin\Debug\net5.0\SelectionStatementExercise.deps.json
+C:\Users\amori\repos\SelectionStatementExercise\SelectionStatementExercise\bin\Debug\net5.0\SelectionStatementExercise.runtimeconfig.json
+C:\Users\amori\repos\SelectionStatementExercise\SelectionStatementExercise\bin\Debug\net5.0\SelectionStatementExercise.runtimeconfig.dev.json
+C:\Users\amori\repos\SelectionStatementExercise\SelectionStatementExercise\bin\Debug\net5.0\SelectionStatementExercise.dll
+C:\Users\amori\repos\SelectionStatementExercise\SelectionStatementExercise\bin\Debug\net5.0\ref\SelectionStatementExercise.dll
+C:\Users\amori\repos\SelectionStatementExercise\SelectionStatementExercise\bin\Debug\net5.0\SelectionStatementExercise.pdb
+C:\Users\amori\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\net5.0\SelectionStatementExercise.dll
+C:\Users\amori\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\net5.0\ref\SelectionStatementExercise.dll
+C:\Users\amori\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\net5.0\SelectionStatementExercise.pdb
+C:\Users\amori\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\net5.0\SelectionStatementExercise.genruntimeconfig.cache
